@@ -1,0 +1,5 @@
+c:\users\khahn\documents\visual studio 2015\Projects\MyConvert\MyConvert\bin\Debug\MyConvert.dll
+c:\users\khahn\documents\visual studio 2015\Projects\MyConvert\MyConvert\bin\Debug\MyConvert.pdb
+c:\users\khahn\documents\visual studio 2015\Projects\MyConvert\MyConvert\obj\Debug\MyConvert.csprojResolveAssemblyReference.cache
+c:\users\khahn\documents\visual studio 2015\Projects\MyConvert\MyConvert\obj\Debug\MyConvert.dll
+c:\users\khahn\documents\visual studio 2015\Projects\MyConvert\MyConvert\obj\Debug\MyConvert.pdb
